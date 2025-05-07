@@ -3,5 +3,6 @@ const obj = {
 }
 const obj1 = {
     name:"Varsik",
-    username:"Avetisyan"
+    username:"Avetisyan",
+    age: "29"
 }
