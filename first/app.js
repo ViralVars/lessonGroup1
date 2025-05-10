@@ -1,5 +1,6 @@
 const obj = { 
-    key : "10"
+    key : "10",
+    value : "20"
 }
 const obj1 = {
     name:"Varsik",
